@@ -1,0 +1,1512 @@
+{
+  "NE122": {
+    "code": "NE122",
+    "name": "OfficeCity Kantoormeubelen B.V.",
+    "orders": [
+      {
+        "order_no": "25LGNE122-0929",
+        "actual_ship_day": "2025-11-14",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 16940,
+            "sku_num": 220
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 7700,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 26180,
+            "sku_num": 340
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 374,
+            "sku_num": 22
+          }
+        ],
+        "order_date": "2025-09-29"
+      },
+      {
+        "order_no": "25LGNE122-1023",
+        "actual_ship_day": "2025-12-18",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 374,
+            "sku_num": 22
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 22800,
+            "sku_num": 200
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 10944,
+            "sku_num": 96
+          },
+          {
+            "sku": "BC05",
+            "sku_amount": 0,
+            "sku_num": 475
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          }
+        ],
+        "order_date": "2025-10-23"
+      },
+      {
+        "order_no": "26LGNE122-0319",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 85,
+            "sku_num": 5
+          }
+        ],
+        "order_date": "2026-03-19"
+      },
+      {
+        "order_no": "25LGNE122-1031",
+        "actual_ship_day": "2026-01-05",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 170,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 10600,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 8480,
+            "sku_num": 40
+          },
+          {
+            "sku": "ET223LE(IB)-ZX",
+            "sku_amount": 10000,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 1560,
+            "sku_num": 130
+          },
+          {
+            "sku": "ET223LE(IB)-ZX",
+            "sku_amount": 10000,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 1600,
+            "sku_num": 50
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 510,
+            "sku_num": 30
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 1280,
+            "sku_num": 40
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 4160,
+            "sku_num": 130
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 600,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 27560,
+            "sku_num": 130
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 480,
+            "sku_num": 40
+          }
+        ],
+        "order_date": "2025-10-31"
+      },
+      {
+        "order_no": "26LGNE122-0310",
+        "actual_ship_day": "2026-05-20",
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 27720,
+            "sku_num": 360
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 663,
+            "sku_num": 39
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 6930,
+            "sku_num": 90
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 4560,
+            "sku_num": 40
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 25080,
+            "sku_num": 220
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 13860,
+            "sku_num": 180
+          }
+        ],
+        "order_date": "2026-03-10"
+      },
+      {
+        "order_no": "25LGNE122-0101",
+        "actual_ship_day": "2025-05-03",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "Henk Schijvenaarstraat 1 2031VZ Haarlem The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 8100,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 18850,
+            "sku_num": 145
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 36400,
+            "sku_num": 280
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 8450,
+            "sku_num": 65
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 38070,
+            "sku_num": 470
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 19440,
+            "sku_num": 240
+          }
+        ],
+        "order_date": "2025-01-01"
+      },
+      {
+        "order_no": "26LGNE122-0609",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 340,
+            "sku_num": 20
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 9240,
+            "sku_num": 120
+          },
+          {
+            "sku": "ET223L(IB)-02",
+            "sku_amount": 18000,
+            "sku_num": 90
+          }
+        ],
+        "order_date": "2026-06-09"
+      },
+      {
+        "order_no": "26LGNE122-0422",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "HT214-NE122",
+            "sku_amount": 3900,
+            "sku_num": 60
+          },
+          {
+            "sku": "DLB992-ZX",
+            "sku_amount": 1728,
+            "sku_num": 72
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 238,
+            "sku_num": 14
+          },
+          {
+            "sku": "BC05",
+            "sku_amount": 0,
+            "sku_num": 50
+          },
+          {
+            "sku": "DLB992D-ZX",
+            "sku_amount": 3440,
+            "sku_num": 80
+          },
+          {
+            "sku": "DLB992D-ZX",
+            "sku_amount": 3440,
+            "sku_num": 80
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 7392,
+            "sku_num": 96
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 272,
+            "sku_num": 16
+          },
+          {
+            "sku": "ET223Q-MAX-WX",
+            "sku_amount": 6200,
+            "sku_num": 25
+          },
+          {
+            "sku": "DLB992-ZX",
+            "sku_amount": 1728,
+            "sku_num": 72
+          },
+          {
+            "sku": "ET223Q-MAX-WX",
+            "sku_amount": 6200,
+            "sku_num": 25
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 9120,
+            "sku_num": 80
+          },
+          {
+            "sku": "HT214-NE122",
+            "sku_amount": 3900,
+            "sku_num": 60
+          }
+        ],
+        "order_date": "2026-04-22"
+      }
+    ],
+    "emails": [
+      "bart.stam@officecity.nl",
+      "marc.hofman@officecity.nl"
+    ]
+  },
+  "bart.stam@officecity.nl": {
+    "code": "NE122",
+    "name": "OfficeCity Kantoormeubelen B.V.",
+    "orders": [
+      {
+        "order_no": "25LGNE122-0929",
+        "actual_ship_day": "2025-11-14",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 16940,
+            "sku_num": 220
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 7700,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 26180,
+            "sku_num": 340
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 374,
+            "sku_num": 22
+          }
+        ],
+        "order_date": "2025-09-29"
+      },
+      {
+        "order_no": "25LGNE122-1023",
+        "actual_ship_day": "2025-12-18",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 374,
+            "sku_num": 22
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 22800,
+            "sku_num": 200
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 10944,
+            "sku_num": 96
+          },
+          {
+            "sku": "BC05",
+            "sku_amount": 0,
+            "sku_num": 475
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          }
+        ],
+        "order_date": "2025-10-23"
+      },
+      {
+        "order_no": "26LGNE122-0319",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 85,
+            "sku_num": 5
+          }
+        ],
+        "order_date": "2026-03-19"
+      },
+      {
+        "order_no": "25LGNE122-1031",
+        "actual_ship_day": "2026-01-05",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 170,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 10600,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 8480,
+            "sku_num": 40
+          },
+          {
+            "sku": "ET223LE(IB)-ZX",
+            "sku_amount": 10000,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 1560,
+            "sku_num": 130
+          },
+          {
+            "sku": "ET223LE(IB)-ZX",
+            "sku_amount": 10000,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 1600,
+            "sku_num": 50
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 510,
+            "sku_num": 30
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 1280,
+            "sku_num": 40
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 4160,
+            "sku_num": 130
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 600,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 27560,
+            "sku_num": 130
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 480,
+            "sku_num": 40
+          }
+        ],
+        "order_date": "2025-10-31"
+      },
+      {
+        "order_no": "26LGNE122-0310",
+        "actual_ship_day": "2026-05-20",
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 27720,
+            "sku_num": 360
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 663,
+            "sku_num": 39
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 6930,
+            "sku_num": 90
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 4560,
+            "sku_num": 40
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 25080,
+            "sku_num": 220
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 13860,
+            "sku_num": 180
+          }
+        ],
+        "order_date": "2026-03-10"
+      },
+      {
+        "order_no": "25LGNE122-0101",
+        "actual_ship_day": "2025-05-03",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "Henk Schijvenaarstraat 1 2031VZ Haarlem The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 8100,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 18850,
+            "sku_num": 145
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 36400,
+            "sku_num": 280
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 8450,
+            "sku_num": 65
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 38070,
+            "sku_num": 470
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 19440,
+            "sku_num": 240
+          }
+        ],
+        "order_date": "2025-01-01"
+      },
+      {
+        "order_no": "26LGNE122-0609",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 340,
+            "sku_num": 20
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 9240,
+            "sku_num": 120
+          },
+          {
+            "sku": "ET223L(IB)-02",
+            "sku_amount": 18000,
+            "sku_num": 90
+          }
+        ],
+        "order_date": "2026-06-09"
+      },
+      {
+        "order_no": "26LGNE122-0422",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "HT214-NE122",
+            "sku_amount": 3900,
+            "sku_num": 60
+          },
+          {
+            "sku": "DLB992-ZX",
+            "sku_amount": 1728,
+            "sku_num": 72
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 238,
+            "sku_num": 14
+          },
+          {
+            "sku": "BC05",
+            "sku_amount": 0,
+            "sku_num": 50
+          },
+          {
+            "sku": "DLB992D-ZX",
+            "sku_amount": 3440,
+            "sku_num": 80
+          },
+          {
+            "sku": "DLB992D-ZX",
+            "sku_amount": 3440,
+            "sku_num": 80
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 7392,
+            "sku_num": 96
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 272,
+            "sku_num": 16
+          },
+          {
+            "sku": "ET223Q-MAX-WX",
+            "sku_amount": 6200,
+            "sku_num": 25
+          },
+          {
+            "sku": "DLB992-ZX",
+            "sku_amount": 1728,
+            "sku_num": 72
+          },
+          {
+            "sku": "ET223Q-MAX-WX",
+            "sku_amount": 6200,
+            "sku_num": 25
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 9120,
+            "sku_num": 80
+          },
+          {
+            "sku": "HT214-NE122",
+            "sku_amount": 3900,
+            "sku_num": 60
+          }
+        ],
+        "order_date": "2026-04-22"
+      }
+    ],
+    "emails": [
+      "bart.stam@officecity.nl",
+      "marc.hofman@officecity.nl"
+    ]
+  },
+  "marc.hofman@officecity.nl": {
+    "code": "NE122",
+    "name": "OfficeCity Kantoormeubelen B.V.",
+    "orders": [
+      {
+        "order_no": "25LGNE122-0929",
+        "actual_ship_day": "2025-11-14",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 16940,
+            "sku_num": 220
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 7700,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 26180,
+            "sku_num": 340
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 374,
+            "sku_num": 22
+          }
+        ],
+        "order_date": "2025-09-29"
+      },
+      {
+        "order_no": "25LGNE122-1023",
+        "actual_ship_day": "2025-12-18",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 374,
+            "sku_num": 22
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 22800,
+            "sku_num": 200
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 10944,
+            "sku_num": 96
+          },
+          {
+            "sku": "BC05",
+            "sku_amount": 0,
+            "sku_num": 475
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          }
+        ],
+        "order_date": "2025-10-23"
+      },
+      {
+        "order_no": "26LGNE122-0319",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-UK101",
+            "sku_amount": 1150,
+            "sku_num": 50
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 85,
+            "sku_num": 5
+          }
+        ],
+        "order_date": "2026-03-19"
+      },
+      {
+        "order_no": "25LGNE122-1031",
+        "actual_ship_day": "2026-01-05",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 170,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 10600,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 8480,
+            "sku_num": 40
+          },
+          {
+            "sku": "ET223LE(IB)-ZX",
+            "sku_amount": 10000,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 1560,
+            "sku_num": 130
+          },
+          {
+            "sku": "ET223LE(IB)-ZX",
+            "sku_amount": 10000,
+            "sku_num": 50
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 1600,
+            "sku_num": 50
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 510,
+            "sku_num": 30
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 1280,
+            "sku_num": 40
+          },
+          {
+            "sku": "CMP022-05-N",
+            "sku_amount": 4160,
+            "sku_num": 130
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 600,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223H(BL)-HD-EL-NE122",
+            "sku_amount": 27560,
+            "sku_num": 130
+          },
+          {
+            "sku": "CMP025-12L",
+            "sku_amount": 480,
+            "sku_num": 40
+          }
+        ],
+        "order_date": "2025-10-31"
+      },
+      {
+        "order_no": "26LGNE122-0310",
+        "actual_ship_day": "2026-05-20",
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 27720,
+            "sku_num": 360
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 663,
+            "sku_num": 39
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 6930,
+            "sku_num": 90
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 4560,
+            "sku_num": 40
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 25080,
+            "sku_num": 220
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 13860,
+            "sku_num": 180
+          }
+        ],
+        "order_date": "2026-03-10"
+      },
+      {
+        "order_no": "25LGNE122-0101",
+        "actual_ship_day": "2025-05-03",
+        "salesman_name": "李永云",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "Henk Schijvenaarstraat 1 2031VZ Haarlem The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET114-N",
+            "sku_amount": 8100,
+            "sku_num": 100
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 18850,
+            "sku_num": 145
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 36400,
+            "sku_num": 280
+          },
+          {
+            "sku": "ET223(IB)-02-NE122",
+            "sku_amount": 8450,
+            "sku_num": 65
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 38070,
+            "sku_num": 470
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 19440,
+            "sku_num": 240
+          }
+        ],
+        "order_date": "2025-01-01"
+      },
+      {
+        "order_no": "26LGNE122-0609",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 11400,
+            "sku_num": 100
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 340,
+            "sku_num": 20
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 9240,
+            "sku_num": 120
+          },
+          {
+            "sku": "ET223L(IB)-02",
+            "sku_amount": 18000,
+            "sku_num": 90
+          }
+        ],
+        "order_date": "2026-06-09"
+      },
+      {
+        "order_no": "26LGNE122-0422",
+        "actual_ship_day": null,
+        "salesman_name": "魏逸丹",
+        "country": "荷兰",
+        "area": "欧洲",
+        "address": "A. Hofmanweg 7 – 2031BH - Haarlem, The Netherlands",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "HT214-NE122",
+            "sku_amount": 3900,
+            "sku_num": 60
+          },
+          {
+            "sku": "DLB992-ZX",
+            "sku_amount": 1728,
+            "sku_num": 72
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 238,
+            "sku_num": 14
+          },
+          {
+            "sku": "BC05",
+            "sku_amount": 0,
+            "sku_num": 50
+          },
+          {
+            "sku": "DLB992D-ZX",
+            "sku_amount": 3440,
+            "sku_num": 80
+          },
+          {
+            "sku": "DLB992D-ZX",
+            "sku_amount": 3440,
+            "sku_num": 80
+          },
+          {
+            "sku": "ET114-N",
+            "sku_amount": 7392,
+            "sku_num": 96
+          },
+          {
+            "sku": "PALLET FEE",
+            "sku_amount": 272,
+            "sku_num": 16
+          },
+          {
+            "sku": "ET223Q-MAX-WX",
+            "sku_amount": 6200,
+            "sku_num": 25
+          },
+          {
+            "sku": "DLB992-ZX",
+            "sku_amount": 1728,
+            "sku_num": 72
+          },
+          {
+            "sku": "ET223Q-MAX-WX",
+            "sku_amount": 6200,
+            "sku_num": 25
+          },
+          {
+            "sku": "ET223(BL)-EL",
+            "sku_amount": 9120,
+            "sku_num": 80
+          },
+          {
+            "sku": "HT214-NE122",
+            "sku_amount": 3900,
+            "sku_num": 60
+          }
+        ],
+        "order_date": "2026-04-22"
+      }
+    ],
+    "emails": [
+      "bart.stam@officecity.nl",
+      "marc.hofman@officecity.nl"
+    ]
+  },
+  "HU24": {
+    "code": "HU24",
+    "name": "Délity Bútor Zrt",
+    "orders": [
+      {
+        "order_no": "25LGHU24-0724",
+        "actual_ship_day": "2025-09-25",
+        "salesman_name": "蒋成",
+        "country": "匈牙利",
+        "area": "欧洲",
+        "address": "6345 Nemesnádudvar, Pet?fi Sándor utca 7.",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "EPD105-EWT",
+            "sku_amount": 1550,
+            "sku_num": 1
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 5750,
+            "sku_num": 50
+          },
+          {
+            "sku": "DLB851D2",
+            "sku_amount": 468,
+            "sku_num": 12
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 5750,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "DLB851",
+            "sku_amount": 230,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "DLB851D2",
+            "sku_amount": 468,
+            "sku_num": 12
+          },
+          {
+            "sku": "DLB851",
+            "sku_amount": 230,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223H(IB)",
+            "sku_amount": 8250,
+            "sku_num": 30
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 17250,
+            "sku_num": 150
+          },
+          {
+            "sku": "CMP025-01M",
+            "sku_amount": 450,
+            "sku_num": 30
+          }
+        ],
+        "order_date": "2025-07-24"
+      }
+    ],
+    "emails": [
+      "ficzere.jeno@delitybutor.hu",
+      "nora.lovasz@modiz.hu",
+      "kata.berecz@modiz.hu"
+    ]
+  },
+  "ficzere.jeno@delitybutor.hu": {
+    "code": "HU24",
+    "name": "Délity Bútor Zrt",
+    "orders": [
+      {
+        "order_no": "25LGHU24-0724",
+        "actual_ship_day": "2025-09-25",
+        "salesman_name": "蒋成",
+        "country": "匈牙利",
+        "area": "欧洲",
+        "address": "6345 Nemesnádudvar, Pet?fi Sándor utca 7.",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "EPD105-EWT",
+            "sku_amount": 1550,
+            "sku_num": 1
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 5750,
+            "sku_num": 50
+          },
+          {
+            "sku": "DLB851D2",
+            "sku_amount": 468,
+            "sku_num": 12
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 5750,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "DLB851",
+            "sku_amount": 230,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "DLB851D2",
+            "sku_amount": 468,
+            "sku_num": 12
+          },
+          {
+            "sku": "DLB851",
+            "sku_amount": 230,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223H(IB)",
+            "sku_amount": 8250,
+            "sku_num": 30
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 17250,
+            "sku_num": 150
+          },
+          {
+            "sku": "CMP025-01M",
+            "sku_amount": 450,
+            "sku_num": 30
+          }
+        ],
+        "order_date": "2025-07-24"
+      }
+    ],
+    "emails": [
+      "ficzere.jeno@delitybutor.hu",
+      "nora.lovasz@modiz.hu",
+      "kata.berecz@modiz.hu"
+    ]
+  },
+  "nora.lovasz@modiz.hu": {
+    "code": "HU24",
+    "name": "Délity Bútor Zrt",
+    "orders": [
+      {
+        "order_no": "25LGHU24-0724",
+        "actual_ship_day": "2025-09-25",
+        "salesman_name": "蒋成",
+        "country": "匈牙利",
+        "area": "欧洲",
+        "address": "6345 Nemesnádudvar, Pet?fi Sándor utca 7.",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "EPD105-EWT",
+            "sku_amount": 1550,
+            "sku_num": 1
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 5750,
+            "sku_num": 50
+          },
+          {
+            "sku": "DLB851D2",
+            "sku_amount": 468,
+            "sku_num": 12
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 5750,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "DLB851",
+            "sku_amount": 230,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "DLB851D2",
+            "sku_amount": 468,
+            "sku_num": 12
+          },
+          {
+            "sku": "DLB851",
+            "sku_amount": 230,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223H(IB)",
+            "sku_amount": 8250,
+            "sku_num": 30
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 17250,
+            "sku_num": 150
+          },
+          {
+            "sku": "CMP025-01M",
+            "sku_amount": 450,
+            "sku_num": 30
+          }
+        ],
+        "order_date": "2025-07-24"
+      }
+    ],
+    "emails": [
+      "ficzere.jeno@delitybutor.hu",
+      "nora.lovasz@modiz.hu",
+      "kata.berecz@modiz.hu"
+    ]
+  },
+  "kata.berecz@modiz.hu": {
+    "code": "HU24",
+    "name": "Délity Bútor Zrt",
+    "orders": [
+      {
+        "order_no": "25LGHU24-0724",
+        "actual_ship_day": "2025-09-25",
+        "salesman_name": "蒋成",
+        "country": "匈牙利",
+        "area": "欧洲",
+        "address": "6345 Nemesnádudvar, Pet?fi Sándor utca 7.",
+        "receivephone": null,
+        "items": [
+          {
+            "sku": "EPD105-EWT",
+            "sku_amount": 1550,
+            "sku_num": 1
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 5750,
+            "sku_num": 50
+          },
+          {
+            "sku": "DLB851D2",
+            "sku_amount": 468,
+            "sku_num": 12
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 5750,
+            "sku_num": 50
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "DLB851",
+            "sku_amount": 230,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223T(IB)",
+            "sku_amount": 2200,
+            "sku_num": 10
+          },
+          {
+            "sku": "DLB851D2",
+            "sku_amount": 468,
+            "sku_num": 12
+          },
+          {
+            "sku": "DLB851",
+            "sku_amount": 230,
+            "sku_num": 10
+          },
+          {
+            "sku": "ET223H(IB)",
+            "sku_amount": 8250,
+            "sku_num": 30
+          },
+          {
+            "sku": "ET123(IB)",
+            "sku_amount": 17250,
+            "sku_num": 150
+          },
+          {
+            "sku": "CMP025-01M",
+            "sku_amount": 450,
+            "sku_num": 30
+          }
+        ],
+        "order_date": "2025-07-24"
+      }
+    ],
+    "emails": [
+      "ficzere.jeno@delitybutor.hu",
+      "nora.lovasz@modiz.hu",
+      "kata.berecz@modiz.hu"
+    ]
+  }
+}
