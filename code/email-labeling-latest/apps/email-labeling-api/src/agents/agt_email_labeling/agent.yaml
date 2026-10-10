@@ -1,0 +1,43 @@
+# B2B 邮件打标 Agent 配置
+id: agt_email_labeling
+name: B2B 邮件打标
+display_name: B2B 邮件打标
+description: 外贸邮件漏斗阶段与事件自动识别，支持单封/批量打标、人工复核与评估统计
+version: "1.0.0"
+author: system
+enabled: true
+category: production
+
+# 交互类型
+interaction_type: single_turn
+
+# 入口配置
+entry:
+  module: "agents.agt_email_labeling.src.agent"
+  function: "execute"
+
+# 输入输出定义
+input_schema:
+  type: object
+  properties:
+    action:
+      type: string
+      description: 操作类型
+  required:
+    - action
+
+output_schema:
+  type: object
+  properties:
+    success:
+      type: boolean
+    result:
+      type: object
+
+# 前端UI配置
+ui:
+  route: "agt_email_labeling"
+
+# Agent配置
+config:
+  timeout: 300
